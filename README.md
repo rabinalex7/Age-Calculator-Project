@@ -1,18 +1,18 @@
 # Age Calculator
 
 # Introduction:
-The Age Calculator is a simple Python Project to Calculate the Age of a Person Based on their Date Of Birth (DOB). This project will give you different types of Age Outputs like Age in Months, Age in Weeks, Age in Days and Current Age of a person who enters their DOB.  The application provides a user-friendly interface with input fields and a button for easy interaction. It provides a simple and efficient way to determine someone's age, useful for various applications like age verification, demographic analysis, and more.
+The Age Calculator is a simple Python Project to Calculate the Age of a Person Based on their Date Of Birth (DOB). This project will give you different types of Age Outputs like Age in Months, Age in Weeks, Age in Days and Current Age of a person who enters their DOB.  The application provides a user-friendly interface with input fields and a button for easy interaction. It provides a simple and efficient way to determine someone's age. It's useful for various applications like age verification, demographic analysis, and more.
 
 # Python Libraries and Modules Used:
 
-Modules: The smallest units of organization, Libraries: Collections of modules and functionalities.
-Packages: Grouped modules, often hierarchically, Frameworks: Blueprints for entire application structures.
+MODULES: The smallest units of organization. LIBRARIES: Collections of modules and functionalities.
+PACKAGES: Grouped modules, often hierarchically. FRAMEWORKS: Blueprints for entire application structures.
 
 # 1. tkinter
 Tkinter is a Python library that lets you create graphical user interfaces (GUIs) for desktop applications.
 
 # 2. messagebox
-Tkinter Messagebox is a module in python which provides a different set of dialogues that are used to display message boxes, showing errors or warnings,            widgets to select files or change colors which is a pop-up box with a relevant message being displayed along with a title based on the requirement in python.
+Tkinter Messagebox is a module in python which provides a different set of dialogues that are used to display inside the message boxes like showing errors or warnings.The messagebox displays a message window, also known as a dialog box, which presents a message to the user. It is a modal window, blocking other actions in the application until the user closes it. A MessageBox can contain text, buttons, and symbols that inform and instruct the user.
 
 # 3. calendar
 Python has a built-in module called the Calendar module which allows you to perform date, month, and calendar-related operations while even letting you manipulate your code for some specific day or month of the year. The Calendar module in python uses the idealized calendar which is the current Gregorian calendar.
@@ -30,8 +30,27 @@ datetime in Python is the combination between dates and times. The attributes of
 The dateutil module is a predefined module in Python that helps you manipulate and work with dates and time stamps. You can use it for a number of purposes when working with dates, such as adding dates, parsing dates in different formats, subtracting dates, calculating the difference between two dates.
 
 # 8. math
-The math module in Python is a built-in module that provides functions for mathematical operations. It can be used for basic arithmetic and advanced scientific computations. 
+The math module in Python is a built-in module that provides functions for mathematical operations. It can be used for basic arithmetic and advanced scientific computations.
 
+# Features:
+            * Accurate age calculation based on users DOB.
+            * User Frindly GUI.
+            * User can get their age in different time periods like days, weeks, months and years.
 
+# OUTPUTS:
+
+  # 1. HOME PAGE:
+
+![1  Home Window](https://github.com/user-attachments/assets/cdee2773-08f9-4b74-9da0-afb10e4634af)
+
+  # 2. RESULT PAGE:
+
+![4  Result_SUBMIT](https://github.com/user-attachments/assets/85fd0833-767c-403c-8aa5-179d19b0a5da)
+
+  # 3. ERROR PAGE:
+
+![8  Error Page](https://github.com/user-attachments/assets/1646d682-3c0b-49ee-a056-708d8e146ac4)
+
+  # 4. 
 
 
