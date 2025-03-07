@@ -43,14 +43,24 @@ The math module in Python is a built-in module that provides functions for mathe
 
 ![1  Home Window](https://github.com/user-attachments/assets/cdee2773-08f9-4b74-9da0-afb10e4634af)
 
-  # 2. RESULT PAGE:
-
-![4  Result_SUBMIT](https://github.com/user-attachments/assets/85fd0833-767c-403c-8aa5-179d19b0a5da)
-
-  # 3. ERROR PAGE:
+  # 2. ERROR PAGE:
 
 ![8  Error Page](https://github.com/user-attachments/assets/1646d682-3c0b-49ee-a056-708d8e146ac4)
 
-  # 4. 
+  # 3. DOB ENTRY - CALENDER:
+  
+![2  Calender](https://github.com/user-attachments/assets/28d36dce-e785-46c2-b4aa-03507ac798ce)
+
+  # 4. DOB ENTRY - KEYBOARD:
+
+![3  DOB Entry](https://github.com/user-attachments/assets/55bbf0a9-5a2c-4f6c-8181-076a21dfb392)
+
+  # 5. RESULT PAGE:
+
+![4  Result_SUBMIT](https://github.com/user-attachments/assets/85fd0833-767c-403c-8aa5-179d19b0a5da)
+
+  
+
+
 
 
