@@ -9,9 +9,9 @@ MODULES: A module is essentially a container for related Python code, allowing y
 
 LIBRARIES: A Python library is a collection of modules and packages that offer pre-written code, making it easier to perform specific tasks without having to write the code from scratch.
 
-PACKAGES: A packag is a way to organize related modules into a hierarchical directory structure, essentially acting as a namespace for those modules.
+PACKAGES: A package is a way to organize related modules into a hierarchical directory structure, essentially acting as a namespacea(container where names (variables, functions, objects) are mapped to objects, helping to avoid naming conflicts by ensuring unique names within a given scope) for those modules.
 
-FRAMEWORKS:  a structured foundation or platform, a collection of pre-built modules and packages, that provides a standardized way to build and deploy software applications, streamlining the development process. 
+FRAMEWORKS:  A framework is a structured foundation or platform, a collection of pre-built modules and packages, that provides a standardized way to build and deploy software applications, streamlining the development process. 
 
 # 1. tkinter
 Tkinter is a Python library that lets you create graphical user interfaces (GUIs) for desktop applications.
