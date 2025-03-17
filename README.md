@@ -6,8 +6,11 @@ The Age Calculator is a simple Python Project to Calculate the Age of a Person B
 # Python Libraries and Modules Used:
 
 MODULES: A module is essentially a container for related Python code, allowing you to structure your programs in a modular way.
-LIBRARIES: A Python library is a collection of modules and packages that offer pre-written code, making it easier to perform specific tasks without having to write the code from scratch. 
-PACKAGES: A packag is a way to organize related modules into a hierarchical directory structure, essentially acting as a namespace for those modules.  
+
+LIBRARIES: A Python library is a collection of modules and packages that offer pre-written code, making it easier to perform specific tasks without having to write the code from scratch.
+
+PACKAGES: A packag is a way to organize related modules into a hierarchical directory structure, essentially acting as a namespace for those modules.
+
 FRAMEWORKS:  a structured foundation or platform, a collection of pre-built modules and packages, that provides a standardized way to build and deploy software applications, streamlining the development process. 
 
 # 1. tkinter
