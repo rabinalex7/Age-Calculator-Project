@@ -39,7 +39,7 @@ The math module in Python is a built-in module that provides functions for mathe
 
 # Features:
             * Accurate age calculation based on users DOB.
-            * User Frindly GUI.
+            * User Friendly GUI.
             * User can get their age in different time periods like days, weeks, months and years.
 
 # OUTPUTS:
